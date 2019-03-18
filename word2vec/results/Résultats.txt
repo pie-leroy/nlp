@@ -1,0 +1,13 @@
+Premier essai avec 4000 dcuments 
+model = gensim.models.Word2Vec( 
+    [wiki_vocab_tokenized],
+    size=150,
+    window=10,
+    min_count=2,
+    workers=4)
+
+model.train([wiki_vocab_tokenized], total_examples=len(wiki_vocab_tokenized), epochs=10)
+model.wv.most_similar(positive="microsoft",topn=10)
+
+
+-------------------------------------------------------------------------------------------------------------------------

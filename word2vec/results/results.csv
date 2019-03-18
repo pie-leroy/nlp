@@ -1,0 +1,8 @@
+Nombre de mots;Model de word embedding;temps d'apprentissage;Nombre d'epochs;Notebook de référence
+5351366;word2vec;0:00:01.380250;?;None
+5386246;word2vec;0:00:13.387813;?;resultats/word2vec_with_gensim2019-02-2117-15-11-106036.pdf
+5386246;word2vec;0:01:58.536950;?;resultats/word2vec_with_gensim2019-02-2117-18-45-186538.pdf
+5421665;word2vec;0:01:21.247137;?;resultats/word2vec_with_gensim2019-02-2117-26-02-885095.pdf
+5421665;word2vec;0:01:18.136015;?;resultats/word2vec_with_gensim2019-02-2117-30-48-451563.pdf
+7408802;word2vec;0:01:28.744673;?;resultats/word2vec_with_gensim2019-02-2520-38-24-117705.pdf
+7678696;word2vec;0:01:21.619619;?;resultats/word2vec_with_gensim2019-02-2523-21-51-239105.pdf
