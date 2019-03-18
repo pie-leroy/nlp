@@ -1,0 +1,1 @@
+The objective of this folder is to retrieve the content of the wikipedia pages belonging to the computer theme
