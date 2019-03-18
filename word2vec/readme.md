@@ -1,0 +1,2 @@
+The objective of this folder is to test and implement the skip gram model with gensim and tensorflow.
+Several tests are in progress. The tensorflow code generates an embedding graph available by running tensorboard

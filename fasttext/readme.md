@@ -1,0 +1,1 @@
+The objective of this folder is to load and test the French 300 size embedding driven by facebook.

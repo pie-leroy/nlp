@@ -1,0 +1,1 @@
+The objective of this folder is to test and implement glove in python and then compare these performances to those of skip gram using the same data set.
