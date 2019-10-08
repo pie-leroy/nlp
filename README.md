@@ -15,5 +15,3 @@ This is Ima todo-list:
 ------------------------------------------------------------------------------------------------------------------------
 This repository is under construction, don't hesitate to make comments to me
 
-
-Translated with www.DeepL.com/Translator
